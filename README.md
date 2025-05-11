@@ -6,12 +6,23 @@ Building innovative web applications and immersive game experiences with a passi
 ## 🌐 Connect with Me
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1niel-m%C3%A1rkus-657a27352/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DashDrayme) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1niel-m%C3%A1rkus-657a27352/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DashDrayme) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://draymedash.itch.io/) [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/draymedash)
 ## 📊 GitHub Stats & Metrics
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DraymeM&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DraymeM&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800) |
+| | |
+|-|-|
+| <img src="https://github-readme-stats.vercel.app/api?username=DraymeM&show_icons=true&theme=dracula" alt="GitHub Stats" width="500"/> | <img src="https://nirzak-streak-stats.vercel.app/?user=DraymeM&theme=onedark&hide_border=false" alt="Streak Stats" width="500"/> |
+<!-- If Top Languages shows no data, replace with: <img src="https://metrics.lecoq.io/DraymeM?template=classic&base=&languages=1&config.timezone=Europe%2FBudapest" alt="Languages" width="400"/> -->
+
+| | |
+|-|-|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraymeM&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800" alt="Top Languages" width="500"/>| <a href="https://draymedash.itch.io/"><img src="https://img.itch.zone/aW1hZ2UvMzE3MDEyMi8xOTQwOTcxNi5wbmc=/original/mFtIB1.png" alt="Itch.io Game" width="500"/></a> |
+
+
+
+ <img src="https://github-profile-trophy.vercel.app/?username=DraymeM&theme=onedark&no-frame=true&margin-w=10" alt="Trophy" width="1030"/> 
+
+
 
 ## 💻 Tech Stack
 
