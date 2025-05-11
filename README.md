@@ -7,6 +7,11 @@ Building innovative web applications and immersive game experiences with a passi
 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1niel-m%C3%A1rkus-657a27352/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DashDrayme) 
+## 📊 GitHub Stats & Metrics
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DraymeM&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DraymeM&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800) |
 
 ## 💻 Tech Stack
 
@@ -46,9 +51,4 @@ Building innovative web applications and immersive game experiences with a passi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style-for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats & Metrics
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DraymeM&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DraymeM&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800) |
 
