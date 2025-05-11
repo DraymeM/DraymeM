@@ -19,11 +19,6 @@ Building innovative web applications and immersive game experiences with a passi
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraymeM&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800" alt="Top Languages" width="500"/>| <a href="https://draymedash.itch.io/"><img src="https://img.itch.zone/aW1hZ2UvMzE3MDEyMi8xOTQwOTcxNi5wbmc=/original/mFtIB1.png" alt="Itch.io Game" width="500"/></a> |
 
 
-
- <img src="https://github-profile-trophy.vercel.app/?username=DraymeM&theme=onedark&no-frame=true&margin-w=10" alt="Trophy" width="1030"/> 
-
-
-
 ## 💻 Tech Stack
 
 ### Frontend
