@@ -1,3 +1,7 @@
+# Hi, I'm Dániel Márkus! 👋
+
+**Full-Stack Developer | Game Developer | Creative Technologist**  
+Building innovative web applications and immersive game experiences
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<[https://www.linkedin.com/in/d%C3%A1niel-m%C3%A1rkus-657a27352/](https://www.linkedin.com/in/d%C3%A1niel-m%C3%A1rkus-657a27352/)>) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DashDrayme)
